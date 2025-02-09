@@ -1,5 +1,15 @@
-# Power-Bi-Pizza-Sales-analysis-Dashboard
-Performed Pizza sales analysis using Power Bi
+# Objective 
+I need to analyze key indicators for our pizza sales data to gain insights into
+our business performance. Specifically, we want to calculate the following
+metrics
+
+1. Total Revenue:
+2. Average Order value:
+3. Total Pizzas Sold
+4. Total Order
+5. Average Pizzas Per Order
+
+# About the dataset
 
 I would like to visualize various aspects of our pizza sales data to gain
 insights and understand key trends. We have identified the following
