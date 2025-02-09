@@ -9,7 +9,7 @@ metrics
 4. Total Order
 5. Average Pizzas Per Order
 
-# About the dataset
+# KPI Requirement & Steps Perfromed About the dataset
 
 I would like to visualize various aspects of our pizza sales data to gain
 insights and understand key trends. We have identified the following
@@ -51,3 +51,8 @@ total orders. This chart will help us identify the most popular pizza options.
 Create a bar chart showcasing the bottom 5 worst-selling pizzas based on the revenue total
 quantity, total orders. This chart will enable us to identify underperforming or less popular pizza
 options.
+
+Dashboard 1: ![10 02 2025_04 05 23_REC](https://github.com/user-attachments/assets/0ae97519-4361-4097-8640-43b7a6d0b829)
+
+Dashboard 2: ![10 02 2025_04 06 09_REC](https://github.com/user-attachments/assets/dd935b89-81a0-4ae3-8e3e-ddefc49c4a52)
+
